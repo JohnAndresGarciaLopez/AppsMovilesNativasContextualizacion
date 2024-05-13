@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.tiendavirtualandroid.app-mergeDebugResources-35:/layout/activity_product_list.xml",
+        "source": "com.example.tiendavirtualandroid.app-main-38:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-mergeDebugResources-35:/layout/activity_shopping_cart.xml",
+        "source": "com.example.tiendavirtualandroid.app-main-38:/layout/activity_shopping_cart.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-mergeDebugResources-35:/layout/activity_registrar.xml",
+        "source": "com.example.tiendavirtualandroid.app-main-38:/layout/activity_registrar.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-mergeDebugResources-35:/layout/card_view_shopping_cart.xml",
+        "source": "com.example.tiendavirtualandroid.app-main-38:/layout/card_view_shopping_cart.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-mergeDebugResources-35:/layout/activity_card_product.xml",
+        "source": "com.example.tiendavirtualandroid.app-main-38:/layout/activity_card_product.xml"
+    },
+    {
+        "merged": "com.example.tiendavirtualandroid.app-mergeDebugResources-35:/layout/activity_login.xml",
+        "source": "com.example.tiendavirtualandroid.app-main-38:/layout/activity_login.xml"
+    }
+]

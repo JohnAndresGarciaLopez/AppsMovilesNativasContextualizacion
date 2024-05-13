@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">376774271357</string>
+    <string name="google_api_key" translatable="false">AIzaSyDzEFyn8-jQ_Eouu74zUQP-e1faJuOMhJU</string>
+    <string name="google_app_id" translatable="false">1:376774271357:android:c38818532d3d876cd06c14</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDzEFyn8-jQ_Eouu74zUQP-e1faJuOMhJU</string>
+    <string name="google_storage_bucket" translatable="false">tienda-ucompensar-android.appspot.com</string>
+    <string name="project_id" translatable="false">tienda-ucompensar-android</string>
+</resources>

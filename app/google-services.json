@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376774271357",
+    "project_id": "tienda-ucompensar-android",
+    "storage_bucket": "tienda-ucompensar-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376774271357:android:c38818532d3d876cd06c14",
+        "android_client_info": {
+          "package_name": "com.example.tiendavirtualandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzEFyn8-jQ_Eouu74zUQP-e1faJuOMhJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
